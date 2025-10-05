@@ -1,7 +1,3 @@
-
-<img src="https://files.catbox.moe/aytazf.jpg"/>
-
-
 New update :
 ```Version 2.2```
 
@@ -24,3 +20,5 @@ cd track
 pip3 install -r requirements.txt
 python3 raja.py
 ```
+
+<img src="https://files.catbox.moe/aytazf.jpg"/>
